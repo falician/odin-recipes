@@ -1,0 +1,23 @@
+/* styles.css */ 
+
+ * {
+    color: black;
+    background-color: #a8a584;
+    
+    font-family: Geneva, Tahoma, sans-serif;
+  }
+  
+  div.parent {
+    text-align: center;
+  }
+
+  .eating,
+  .lasagna,
+  .hotdog,
+  .cereal {
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
